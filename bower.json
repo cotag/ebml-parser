@@ -1,0 +1,23 @@
+{
+  "name": "ebml-parser",
+  "version": "0.0.1",
+  "authors": [
+    "Will Cannings <me@willcannings.com>"
+  ],
+  "description": "EBML Parser",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "EBML"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/cotag/ebml-parser",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

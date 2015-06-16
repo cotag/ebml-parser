@@ -1,0 +1,30 @@
+{
+  "name": "ebml-parser",
+  "version": "0.0.1",
+  "description": "EBML Parser",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "babel": "^5.5.8",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.1.0",
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "test": "mocha --compilers js:babel/register"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cotag/ebml-parser.git"
+  },
+  "keywords": [
+    "EBML"
+  ],
+  "author": "Will Cannings <me@willcannings.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cotag/ebml-parser/issues"
+  },
+  "homepage": "https://github.com/cotag/ebml-parser"
+}
